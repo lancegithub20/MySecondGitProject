@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         println("Local branch")
         println("Local branch2")
         println("demo branch2")
+        println("demo branch3")
     }
 }
