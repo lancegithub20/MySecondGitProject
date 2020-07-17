@@ -10,6 +10,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("Local branch")
         println("Local branch2")
-        println("Reverting  changes")
     }
 }
