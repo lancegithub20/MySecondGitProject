@@ -10,5 +10,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("Test push")
         println("Test2 push")
+
+        println("Local branch")
+        println("Local branch2")
+        println("Local branch3")
+
     }
 }
