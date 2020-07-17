@@ -10,6 +10,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("Rebase push test")
         println("After Rebase push test")
-
     }
 }
